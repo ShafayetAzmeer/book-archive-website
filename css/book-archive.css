@@ -1,0 +1,7 @@
+/* common styles */
+img{
+    height: 600px;
+}
+#spinner{
+    display: none;
+}
